@@ -7,7 +7,7 @@
  <img src="https://img.shields.io/static/v1?label=Tipo&message=Tutorial&color=8257E5&labelColor=000000" alt="Tutorial" />
 </p>
 
-Projeto apresentado [nesse vídeo](https://youtu.be/OTl2hyeEVv0) que ilustra o uso do Spring Security utilizando o Oauth 2.0 + OpenID com uma aplicação frontend React que possui página de login customizada.
+Projeto apresentado [nesse vídeo](https://youtu.be/OTl2hyeEVv0) que ilustra o uso do Spring Security utilizando o Oauth 2.0 + OpenID com uma aplicação frontend React que possui página de login customizada e utilizando um BFF como client Oauth.
 
 ## Configuração do Keycloak
 
